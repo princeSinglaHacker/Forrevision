@@ -4,6 +4,6 @@ main()
 {
 	int first=10;
 	int second=20;
-	int Sum=first+second;
-	printf("%d",Sum);
+	int x=first+second;
+	printf("%d",x);
 }
