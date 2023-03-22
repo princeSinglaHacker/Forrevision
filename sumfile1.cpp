@@ -2,8 +2,9 @@
 #include<conio.h>
 main()
 {
-	int first=10;
-	int second=20;
-	int sum=first+second;
-	printf("%d",sum);
+	int first;
+	int second;
+	scanf("%d%d",&first,&second);
+	int x=first+second;
+	printf("%d",x);
 }
